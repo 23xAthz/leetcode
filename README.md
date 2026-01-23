@@ -1,2 +1,4 @@
-# leetcode
-leetcode journey from 0
+# LeetCode Writeups
+
+
+This repo will be a regular update on my Leetcode journey
