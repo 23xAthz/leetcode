@@ -10,4 +10,6 @@
 
 [3013. Divide an Array Into Subarrays With Minimum Cost II](https://github.com/23xAthz/leetcode/tree/main/problems/3013.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II)
 
+[3379. Transformed Array](https://github.com/23xAthz/leetcode/tree/main/problems/3379.%20Transformed%20Array)
+
 [3637. Trionic Array I](https://github.com/23xAthz/leetcode/tree/main/problems/3637.%20Trionic%20Array%20I)
