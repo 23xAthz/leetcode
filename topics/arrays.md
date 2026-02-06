@@ -17,3 +17,5 @@
 [3379. Transformed Array](https://github.com/23xAthz/leetcode/tree/main/problems/3379.%20Transformed%20Array)
 
 [3637. Trionic Array I](https://github.com/23xAthz/leetcode/tree/main/problems/3637.%20Trionic%20Array%20I)
+
+[3637. Trionic Array II](https://github.com/23xAthz/leetcode/tree/main/problems/3640.%20Trionic%20Array%20II)
