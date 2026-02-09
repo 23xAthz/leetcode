@@ -1,10 +1,17 @@
-//This method:
-//1. convert to an array
-//2. build a bst from the middle element of the array recursively
-//
-//Pros: easier to understand, formulate and code
-//Cons: space complexity is O(n), rather than O(1), making it nightmare for big trees
+// This method:
+// 1. Convert tree to an array using inorder traversal (gives sorted values)
+// 2. Build a balanced BST from the middle element of the array 'recursively'
 
+// Pros:
+// 1. Time complexity: O(n)
+// 2. Easier to understand, formulate and code
+// 3. Clean and straightforward logic
+// 4. Less prone to bugs
+
+// Cons:
+// 1. Space complexity is O(n), rather than O(1), making it a nightmare for big trees
+// 2. Requires extra memory allocation
+// 3. Not truly "in-place"
 
 
 /**
