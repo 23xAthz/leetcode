@@ -3,10 +3,10 @@
 // 2. Transform the vine into a balanced tree using calculated left rotations
 
 // Pros:
-// Time complexity: O(n)
-// Space complexity is O(1) - only uses a few pointers
-// No extra memory needed for large trees
-// True in-place algorithm, no need to convert into an array and rebuild
+// 1. Time complexity: O(n)
+// 2. Space complexity is O(1) - only uses a few pointers
+// 3. No extra memory needed for large trees
+// 4. True in-place algorithm, no need to convert into an array and rebuild
 
 // Cons:
 // 1. Much harder to understand and visualize
