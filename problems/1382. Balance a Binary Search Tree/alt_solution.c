@@ -1,3 +1,12 @@
+//This method:
+//1. convert to an array
+//2. build a bst from the middle element of the array recursively
+//
+//Pros: easier to understand, formulate and code
+//Cons: space complexity is O(n), rather than O(1), making it nightmare for big trees
+
+
+
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
