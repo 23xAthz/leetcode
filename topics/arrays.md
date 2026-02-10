@@ -19,3 +19,5 @@
 [3637. Trionic Array I](https://github.com/23xAthz/leetcode/tree/main/problems/3637.%20Trionic%20Array%20I)
 
 [3637. Trionic Array II](https://github.com/23xAthz/leetcode/tree/main/problems/3640.%20Trionic%20Array%20II)
+
+[3719. Longest Balanced Subarray I](https://github.com/23xAthz/leetcode/tree/main/problems/3719.%20Longest%20Balanced%20Subarray%20I)
